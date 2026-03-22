@@ -30,38 +30,100 @@
 
 ---
 
-## 🧠 SPECIALIZATION
+## 🌌 PROFILE
 
-| Module | Stack |
-|---|---|
-| Recommendation | Retrieval · Ranking · Re-ranking |
-| Modeling | PyTorch · Experiments |
-| Workflow | LangChain · LangGraph |
-| Serving | FastAPI · API Design |
+```txt
+Name       :: Qiansan
+Role       :: AI Engineer / Builder
+Alignment  :: Recommendation · LLM Workflow · Backend Serving
+Vibe       :: Neon midnight · low-noise focus · production-first
+```
+
+> *Code quietly, rank precisely, ship before sunrise.*
 
 ---
 
+## 🧠 SKILL TREE
+
+<div align="center">
+
+### ⚔️ Core Weapons
+<img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,git,github,linux,docker&theme=dark" />
+
+### 🧩 Specialized Modules
+<img src="https://img.shields.io/badge/Retrieval-0d1117?style=for-the-badge&logoColor=8B5CF6" />
+<img src="https://img.shields.io/badge/Ranking-0d1117?style=for-the-badge&logoColor=70A5FD" />
+<img src="https://img.shields.io/badge/Re--ranking-0d1117?style=for-the-badge&logoColor=38BDAE" />
+<img src="https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/LangGraph-0d1117?style=for-the-badge&logoColor=A855F7" />
+<img src="https://img.shields.io/badge/Agent%20Workflow-0d1117?style=for-the-badge&logoColor=F59E0B" />
+
+</div>
+
+<br />
+
+```txt
+Recommendation :: █████████░ 90%
+Modeling       :: ████████░░ 80%
+Workflow       :: ████████░░ 82%
+Serving        :: ███████░░░ 75%
+```
 ## 🎯 CURRENT QUESTS
 
-- Building recommendation pipelines
-- Exploring LLM + recommendation systems
-- Designing agent workflows
-- Shipping AI services with FastAPI
+- Building recommendation pipelines from retrieval to ranking
+- Exploring the intersection of LLMs and recommender systems
+- Designing agent workflows that are practical, not theatrical
+- Shipping clean AI services with FastAPI
+- Turning prototypes into systems that can survive real traffic
 
 ---
 
-## 🌌 INTEREST MAP
+## 🗺️ INTEREST MAP
 
-- Recommendation Systems
-- Retrieval / Ranking
-- LLM Workflows
-- Agent Systems
-- FastAPI Serving
+<div align="center">
+
+`Recommendation Systems` ・ `Retrieval / Ranking` ・ `LLM Workflows`  
+`Agent Systems` ・ `FastAPI Serving` ・ `Production AI`  
+
+</div>
+
+---
+
+## 🪄 BUILD PHILOSOPHY
+
+- Prefer **clear pipelines** over magical abstractions
+- Prefer **working systems** over overdecorated demos
+- Prefer **iteration and shipping** over endless overthinking
+- Build with a bias toward **readability, modularity, and usefulness**
+
+---
+
+## 🌙 NOW LOADING
+
+```txt
+[▓▓▓▓▓▓▓▓░░] Recommender System Design
+[▓▓▓▓▓▓▓░░░] LLM + Recommendation Exploration
+[▓▓▓▓▓▓░░░░] Agent Workflow Engineering
+[▓▓▓▓▓░░░░░] FastAPI Service Polishing
+```
+
+---
+
+## 📡 SIGNALS
+
+<div align="center">
+
+<a href="https://github.com/qscoder23">
+  <img src="https://img.shields.io/badge/GitHub-qscoder23-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="mailto:qiansan13@protonmail.com">
+  <img src="https://img.shields.io/badge/Email-ProtonMail-0d1117?style=for-the-badge&logo=protonmail&logoColor=8B5CF6" />
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-### ⚡ Train, rank, deploy, repeat.
-
-</div>
+### ✦ Thanks for visiting my neon corner of github ✦
