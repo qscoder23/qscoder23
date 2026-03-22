@@ -1,106 +1,70 @@
-<h1 align="center">千仐 / Qiansan</h1>
+<h1 align="center">千仐 / Qiansan ✦</h1>
 
 <p align="center">
-  <em>Building recommender systems, LLM workflows, and elegant AI services.</em>
+  <em>Crafting recommender systems and LLM workflows under a quiet neon sky.</em>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=ffd43b" />
-  <img src="https://img.shields.io/badge/PyTorch-0f172a?style=for-the-badge&logo=pytorch&logoColor=ee4c2c" />
-  <img src="https://img.shields.io/badge/LangChain-0f172a?style=for-the-badge&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/LangGraph-0f172a?style=for-the-badge&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/FastAPI-0f172a?style=for-the-badge&logo=fastapi&logoColor=00c7b7" />
+  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=FFD43B" />
+  <img src="https://img.shields.io/badge/PyTorch-111827?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" />
+  <img src="https://img.shields.io/badge/LangChain-111827?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-111827?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-111827?style=for-the-badge&logo=fastapi&logoColor=00C7B7" />
 </p>
 
 ---
 
-## ✦ About Me
+## About Me
 
-I focus on **Recommender Systems** and **LLM-powered applications**.
+I build things around **recommendation**, **LLM workflows**, and **production-ready AI services**.
 
-My work is centered around:
+My current interests include:
 
-- **Python** for building practical AI systems
-- **PyTorch** for modeling and experimentation
-- **LangChain / LangGraph** for workflow orchestration and agent design
-- **FastAPI** for lightweight, production-ready AI services
-
-I’m especially interested in:
-
-- Personalized recommendation
-- Retrieval / Ranking / Re-ranking
-- Representation learning
-- LLM + Recsys integration
-- Agent workflow design
-- Practical AI engineering
+- personalized recommendation
+- retrieval / ranking / re-ranking
+- PyTorch-based experimentation
+- LangChain / LangGraph workflow design
+- FastAPI model serving
+- practical and elegant AI engineering
 
 ---
 
-## ✦ Current Focus
+## Current Mission
 
-- Building recommendation pipelines with clean engineering structure
-- Exploring LLM-enhanced recommendation workflows
-- Designing agent systems with LangGraph
-- Serving models and AI tools with FastAPI
-- Turning ideas into reproducible experiments
+Turning ideas into systems that are:
 
----
-
-## ✦ Tech Stack
-
-### Core
-`Python` · `PyTorch` · `FastAPI`
-
-### LLM / Workflow
-`LangChain` · `LangGraph`
-
-### Interest Directions
-`Recommendation Systems` · `Retrieval` · `Ranking` · `Re-ranking` · `Representation Learning` · `AI Serving`
+- useful
+- reproducible
+- deployable
+- aesthetically clean
 
 ---
 
-## ✦ Philosophy
+## Tech Constellation
 
-> Minimal interface.  
-> Clear logic.  
-> Soft neon mood.  
-> Build useful systems with calm design and sharp thinking.
+`Python` · `PyTorch` · `LangChain` · `LangGraph` · `FastAPI`
 
 ---
 
-## ✦ Featured Projects
+## Notes
 
-- **recsys-playground**  
-  Recommendation experiments, baselines, and practical notes
-
-- **llm-recsys-lab**  
-  Exploring how LLM workflows can support recommendation scenarios
-
-- **langgraph-agent-lab**  
-  Agent workflow experiments built with LangGraph
-
-- **fastapi-ai-service**  
-  Deployable AI service templates with clean API design
-
-- **ranking-baselines**  
-  Ranking / re-ranking implementations and training practice
-
-- **recsys-notes**  
-  Reading notes, experiments, and technical thoughts
+> Quiet interface.  
+> Precise systems.  
+> A little softness from the anime side of the internet.
 
 ---
 
-## ✦ A Small Snapshot
+## Featured Repositories
 
-```python
-focus = {
-    "domain": "recommender systems",
-    "stack": ["Python", "PyTorch", "LangChain", "LangGraph", "FastAPI"],
-    "interests": [
-        "personalization",
-        "retrieval and ranking",
-        "llm workflows",
-        "agent systems",
-        "production ai engineering"
-    ]
-}
+- `recsys-playground`
+- `llm-recsys-lab`
+- `langgraph-agent-lab`
+- `fastapi-ai-service`
+- `ranking-baselines`
+- `recsys-notes`
+
+---
+
+<p align="center">
+  <sub>Minimalism, recommendation, and a touch of neon.</sub>
+</p>
