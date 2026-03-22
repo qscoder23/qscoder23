@@ -1,70 +1,21 @@
-<h1 align="center">千仐 / Qiansan ✦</h1>
+<div align="center">
 
-<p align="center">
-  <em>Crafting recommender systems and LLM workflows under a quiet neon sky.</em>
-</p>
+# Qiansan
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=FFD43B" />
-  <img src="https://img.shields.io/badge/PyTorch-111827?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" />
-  <img src="https://img.shields.io/badge/LangChain-111827?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-111827?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-111827?style=for-the-badge&logo=fastapi&logoColor=00C7B7" />
-</p>
+### `Recommendation · Ranking · Late-night AI Engineering`
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=800&color=8B5CF6&center=true&vCenter=true&width=900&lines=Building+recommender+systems+in+a+neon-lit+corner+of+the+internet;Training+models+%7C+Designing+workflows+%7C+Shipping+APIs;Python+%2F+PyTorch+%2F+LangChain+%2F+LangGraph+%2F+FastAPI" />
 
-## About Me
+<br/>
 
-I build things around **recommendation**, **LLM workflows**, and **production-ready AI services**.
+<img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=FFD43B" />
+<img src="https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" />
+<img src="https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/LangGraph-0d1117?style=for-the-badge&logoColor=A855F7" />
+<img src="https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=00C7B7" />
 
-My current interests include:
-
-- personalized recommendation
-- retrieval / ranking / re-ranking
-- PyTorch-based experimentation
-- LangChain / LangGraph workflow design
-- FastAPI model serving
-- practical and elegant AI engineering
+</div>
 
 ---
-
-## Current Mission
-
-Turning ideas into systems that are:
-
-- useful
-- reproducible
-- deployable
-- aesthetically clean
-
----
-
-## Tech Constellation
-
-`Python` · `PyTorch` · `LangChain` · `LangGraph` · `FastAPI`
-
----
-
-## Notes
-
-> Quiet interface.  
-> Precise systems.  
-> A little softness from the anime side of the internet.
-
----
-
-## Featured Repositories
-
-- `recsys-playground`
-- `llm-recsys-lab`
-- `langgraph-agent-lab`
-- `fastapi-ai-service`
-- `ranking-baselines`
-- `recsys-notes`
-
----
-
-<p align="center">
-  <sub>Minimalism, recommendation, and a touch of neon.</sub>
-</p>
+⚡ STATS_PANEL
+<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=qscoder23&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qscoder23&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=38bdae" /> </div> ```
