@@ -52,22 +52,13 @@ Vibe       :: Neon midnight · low-noise focus · production-first
 
 ### 🧩 Specialized Modules
 <img src="https://img.shields.io/badge/Retrieval-0d1117?style=for-the-badge&logoColor=8B5CF6" />
-<img src="https://img.shields.io/badge/Ranking-0d1117?style=for-the-badge&logoColor=70A5FD" />
-<img src="https://img.shields.io/badge/Re--ranking-0d1117?style=for-the-badge&logoColor=38BDAE" />
-<img src="https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/LangGraph-0d1117?style=for-the-badge&logoColor=A855F7" />
+<img src="https://img.shields.io/badge/Mutiagent-0d1117?style=for-the-badge&logoColor=A855F7" />
 <img src="https://img.shields.io/badge/Agent%20Workflow-0d1117?style=for-the-badge&logoColor=F59E0B" />
 
 </div>
 
 <br />
 
-```txt
-Recommendation :: █████████░ 90%
-Modeling       :: ████████░░ 80%
-Workflow       :: ████████░░ 82%
-Serving        :: ███████░░░ 75%
-```
 ## 🎯 CURRENT QUESTS
 
 - Building recommendation pipelines from retrieval to ranking
@@ -78,34 +69,12 @@ Serving        :: ███████░░░ 75%
 
 ---
 
-## 🗺️ INTEREST MAP
-
-<div align="center">
-
-`Recommendation Systems` ・ `Retrieval / Ranking` ・ `LLM Workflows`  
-`Agent Systems` ・ `FastAPI Serving` ・ `Production AI`  
-
-</div>
-
----
-
 ## 🪄 BUILD PHILOSOPHY
 
 - Prefer **clear pipelines** over magical abstractions
 - Prefer **working systems** over overdecorated demos
 - Prefer **iteration and shipping** over endless overthinking
 - Build with a bias toward **readability, modularity, and usefulness**
-
----
-
-## 🌙 NOW LOADING
-
-```txt
-[▓▓▓▓▓▓▓▓░░] Recommender System Design
-[▓▓▓▓▓▓▓░░░] LLM + Recommendation Exploration
-[▓▓▓▓▓▓░░░░] Agent Workflow Engineering
-[▓▓▓▓▓░░░░░] FastAPI Service Polishing
-```
 
 ---
 
